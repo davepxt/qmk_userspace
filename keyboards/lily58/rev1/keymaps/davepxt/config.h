@@ -9,5 +9,3 @@
 /* Options */
 #define QUICK_TAP_TERM 100
 #define TAPPING_TERM 200
-
-// #define USB_POLLING_INTERVAL_MS 1
